@@ -7,6 +7,6 @@ This is a game where the 5 turtles race with a random speed and a random chance 
 <img src="https://github.com/shubham1208/TURTLE_RACE/blob/main/turtle_race_demo.gif" width="400" width="400"/>
 
 # Instructions:
-1. Run 'turtle_race.py'.
+1. Run '''turtle_race.py'''.
 2. If you don't have python then isntall and run 'turtleturtle_race.exe'.
 3. Enjoy.
