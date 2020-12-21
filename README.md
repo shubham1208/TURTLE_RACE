@@ -8,5 +8,5 @@ This is a game where the 5 turtles race with a random speed and a random chance 
 
 # Instructions:
 1. Run ```turtle_race.py```.
-2. If you don't have python then isntall and run 'turtleturtle_race.exe'.
+2. If you don't have python then isntall and run ```turtle_race.exe```.
 3. Enjoy.
